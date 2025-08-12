@@ -1,8 +1,8 @@
-#  About Me :
+#  About Me:
 I'm a software engineering student at AJ Institute of Engineering and Technology, passionate about solving real-world problems and exploring emerging technologies.
 
 
-##  Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpitanaik911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpita-naik911/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitanaik911@gmail.com) 
 
 #  Tech Stack:
