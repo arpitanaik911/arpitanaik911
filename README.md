@@ -1,5 +1,5 @@
 #  About Me:
-# Hello,I'm Arpita Naik
+# Hello,I am Arpita Naik
 I'm a software engineering student at AJ Institute of Engineering and Technology, passionate about solving real-world problems and exploring emerging technologies.
 
 
